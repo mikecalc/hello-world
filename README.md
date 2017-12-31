@@ -1,2 +1,2 @@
 # hello-world
-Mike's hello world repository
+Mike is a former software engineer from Microsoft, working mostly on personal projects.
